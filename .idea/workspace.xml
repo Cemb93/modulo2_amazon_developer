@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b64fd256-ab36-4f44-ae32-e9efa3872ce9" name="Changes" comment="iniciando modulo 2">
+    <list default="true" id="b64fd256-ab36-4f44-ae32-e9efa3872ce9" name="Changes" comment="ejercicio condiciones">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +56,26 @@
       <option name="project" value="LOCAL" />
       <updated>1771790441123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ejercicio condiciones">
+      <created>1771792701278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771792701278</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ejercicio condiciones">
+      <created>1771792707969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771792707969</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iniciando modulo 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="iniciando modulo 2" />
+    <MESSAGE value="ejercicio condiciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio condiciones" />
   </component>
 </project>
