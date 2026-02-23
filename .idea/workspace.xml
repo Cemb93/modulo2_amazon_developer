@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b64fd256-ab36-4f44-ae32-e9efa3872ce9" name="Changes" comment="ejercicio condiciones">
+    <list default="true" id="b64fd256-ab36-4f44-ae32-e9efa3872ce9" name="Changes" comment="ejercicio uso del switch con calculadora">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,12 +70,20 @@
       <option name="project" value="LOCAL" />
       <updated>1771792707969</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ejercicio uso del switch con calculadora">
+      <created>1771793948458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771793948458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iniciando modulo 2" />
     <MESSAGE value="ejercicio condiciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio condiciones" />
+    <MESSAGE value="ejercicio uso del switch con calculadora" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio uso del switch con calculadora" />
   </component>
 </project>
